@@ -1,0 +1,92 @@
+   0 cd /home
+   1 mkdir animals
+   2 ls -a
+   3 cd animals
+   4 mkdir dogs
+   5 mkdir cats
+   6 mkdir fish
+   7 cd dogs
+   8 touch pluto
+   9 cd ..
+  10 cd cats
+  11 touch garfield
+  12 cd ..
+  13 cd fish
+  14 touch nemo
+  15 pwd
+  16 ls -l
+  17 ls -a
+  18 cd /home
+  19 mkdir planets
+  20 ls -a
+  21 cd /opt
+  22 touch merkury wenus mars jupiter
+  23 cp merkury wenus mars jupiter /home/planets
+  24 ls -a
+  25 ls-la
+  26 pwd
+  27 tree 
+  28 cd
+  29 opt /cp merkury wenus mars jupiter home/planets/
+  30 cp /opt merkury wenus mars jupiter home/planets/
+  31 ls -a
+  32 tree /home
+  33 cd /home
+  34 mkdir humans
+  35 la -a
+  36 ls -a
+  37 cd tmp
+  38 cd /tmp
+  39 touch adam
+  40 touch adam.txt
+  41 ls -a
+  42 pwd
+  43 cd
+  44 cp /tmp adam.txt home/humans/
+  45 tree /home
+  46 cp /tmp adam.txt home/humans/adam.txt
+  47 tree /home
+  48 cp tmp/ adam.txt/home/humans/
+  49 ls -al
+  50 --help
+  51 cp /home/humans/adam.txt tmp/
+  52 la -a
+  53 cp /home/humans/adam.txt/tmp/
+  54 ls -a
+  55 tree /home
+  56 cd /opt
+  57 cd /tmp
+  58 touch adam.txt
+  59 ls -a
+  60 cd /home/humans/adam.txt
+  61 ls -a
+  62 tree /humans
+  63 mkdir -p /home/humans/adam.txt/
+  64 ls -a
+  65 tree /humans
+  66 tree /home
+  67 touch eva.txt
+  68 ls -a
+  69 mkdir -p /home/humans/eva.txt/opt/eve.txt/
+  70 tree /home
+  71 cd /
+  72 cp /opt/home/humans/eve.txt/home/humans/
+  73 tree /home
+  74 mkdir -p/opt/home/humans/eve.txt/home/humans/
+  75 tree /home
+  76 cp /home/humans/eve.txt/humans
+  77 tree /home
+  78 cp /home/humans/eva.txt/home/humans
+  79 tree /home
+  80 cd /
+  81 cd /home
+  82 cd /humans
+  83 cd humans
+  84 touch eve.txt
+  85 ls -a
+  86 cd /opt
+  87 cd
+  88 cp /home/opt/eve.txt/opt/eva.txt
+  89 tree /home
+  90 history
+  91 history > history.txt
